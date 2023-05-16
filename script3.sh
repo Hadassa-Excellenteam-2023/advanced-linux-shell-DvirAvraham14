@@ -1,7 +1,6 @@
 who -a > who_is_logged
 echo "The answer is 42" > fact
 who -a >> fact 
-
 grep "Alice" alice.txt
 grep -c "Why" alice.txt
 grep 'CHAPTER [^.]*\.' alice.txt | cut -d' ' -f2- > chapters.txt
