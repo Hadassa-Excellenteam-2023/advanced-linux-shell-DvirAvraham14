@@ -8,4 +8,4 @@ cp ~/new/Dvir_Avraham.txt ~/new/newFile
 ls ~/new
 cd
 cd ~
-rm -r ~/new
+rm -rf ~/new
